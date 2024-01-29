@@ -4,15 +4,11 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 <br>
-<p align="center">Hello dear reader! I am glad you are here! Below is extremely boring stuff, please dont read.</p>
+<p>As a Master's student in Biotechnology and Pharmaceutical Engineering at Carnegie Mellon University, I am passionate about leveraging biotechnology for human health. Currently engaged in groundbreaking research at Hiller Lab (CMU), my focus is on nanotechnology and bacterial pathogenesis.</p>
 
-<p align="justify">I am Shashank Katiyar, a Masters student in the department of Computational Biology at Carnegie Mellon University. I am extremely fond of the interesting ways in which one can apply technology (be it algorithms, software, Machine Learning, Engineering or anything else) into biology. I completed my undergrad from the Indian Institute of Technology Kanpur in 2023 in the department of Biological Sciences and Bioengineering, where, apart from doing all the things which happen in a typical boys hostel, I explored various subdomains of Biological Sciences, and ended up falling in love with Computational Biology.</p>
+<p>I am a part of project involving extracellular vesicles (EVs) functionalized with targeting peptides, specifically designed for pneumococcus species. This work explores the impact on competence and virulence, offering insights into therapeutic interventions.</p>
 
-<p align="justify">I am also quite fond of books, an interest I acquired during COVID, and still continue. I also learned to play very noobish guitar during COVID and that triggered a love for music in me. Currently I am learning how to play flute, and I love Imagine Dragons' songs (esp. Birds). Also, I play pool during my free time at CMU.</p>
-
-<p align="justify">Also, apart from the many Computational Biology projects, I am currently working on developing a bot to play slither.io by itself. I really appreciate the beauty and simplicity of slither, and thus wanted to do this project. I know making a hack is not the best way to show your appreciation for a game, but for me its good enough.</p>
-
-<p align="justify">I will add more details here later. Till then, see you!</p>
+<p>With a background in content writing for The Science Vista, I've communicated complex biotech concepts to a broader audience. My articles span topics such as cancer biology, synthetic biology, and emerging trends in the biotech sector. Eager to contribute to biotech and pharmaceutical innovation, my goal is to address global challenges through the transformative potential of biotechnology. Always ready for new challenges and learning opportunities, I am dedicated to advancing the frontiers of this dynamic field. Let's connect and explore the possibilities together! </p>
 
 <!-- <h2>Skills</h2>
 

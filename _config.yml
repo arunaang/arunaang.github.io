@@ -1,6 +1,6 @@
 # main text of home
-title: Shashank Katiyar
-bio: Computational Biology @ Carnegie Mellon University
+title: Arunaa Nagarajan Ganesan
+bio: Biotechnology and Pharmaceutical Engg @ Carnegie Mellon University
 
 # twitter summary info
 description: A personal portfolio site to showcase my projects
@@ -12,15 +12,15 @@ picture: assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: true
+dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/files/ShashankKatiyar_Resume.pdf
+resume-url: assets/files/Arunaa_Resume.pdf
 
-url: https://shashkat.github.io/
+url: https://arunaang.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -36,16 +36,14 @@ disqus:
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 # instagram: myinstagram
-linkedin: shashkat
-youtube: shashankkatiyar31
-github: shashkat
-twitter: shash_kat
-email: shashanksk31@gmail.com
+linkedin: arunaan
+github: arunaang
+email: arunaa.ng@gmail.com
 
 authors:
-  shashankkatiyar:
-    name: Shashank Katiyar
-    bio: A tall guy
+  arunaa:
+    name: Arunaa Nagarajan Ganesan
+    bio: A biologist
     external-image: false
     picture: assets/images/profile.jpg
     # twitter: johndoe
