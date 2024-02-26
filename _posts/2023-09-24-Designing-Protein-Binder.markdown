@@ -20,9 +20,6 @@ externalLink: false
 
 Increase in Secondary metabolite production using Streptomyces species. I did this project at PSG College of Arts and Science, Coimbatore, India. Actinomycetes are a rich source of bioactive natural products important for novel drug leads. Recent genome mining approaches have revealed an enormous number of secondary metabolite biosynthetic gene clusters (smBGCs) in actinomycetes.However, under standard laboratory culture conditions, many smBGCs are silent or cryptic.To activate these dormant smBGCs, several approaches, including metabolic or genetic engineering-based strategies, have been developed. Our project aims to increase streptomycin production through metabolic engineering in both Streptomyces coelicolor and Streptomyces griseus, offering a sustainable solution to address the demand for this life-saving antibiotic.
 <br>
-**Our objective:** 
-Our objective  is to investigate the impact of physical stress, specifically mechanical agitation, on secondary metabolite production in Streptomyces cultures. By subjecting the cultures to controlled mechanical stress, we aim to stimulate secondary metabolite biosynthesis pathways and increase the yields of valuable compounds.
-<br>
 **Methods:**
 Our approach involves the following methodologies:
 Cultivation of Streptomyces cultures under standard conditions, followed by the application of controlled mechanical stress at specific time points during the fermentation process.
@@ -34,6 +31,4 @@ Analysis of secondary metabolite profiles using Staining techniques to perform g
 Comparative transcriptomic and proteomic analyses to elucidate the molecular mechanisms underlying the stress-induced enhancement of secondary metabolite production.
 <br>
 **Results:**
-As part of a collaborative effort, our team conducted growth analysis on various strains of Streptomyces species with the aim of increasing secondary metabolite production by inducing stress. We implemented staining techniques to visualize and analyze the morphological changes in response to stress induction.
-<br>
-Through meticulous optimization of culture conditions and the application of physical stress, we achieved a remarkable improvement in secondary metabolite production, with efficiency surpassing 75%. The stress conditions employed not only triggered metabolic shifts but also influenced morphogenesis and cellular interactions within the Streptomyces populations
+As part of a collaborative effort, our team conducted growth analysis on various strains of Streptomyces species with the aim of increasing secondary metabolite production by inducing stress. We implemented staining techniques to visualize and analyze the morphological changes in response to stress induction.Through meticulous optimization of culture conditions and the application of physical stress, we achieved a remarkable improvement in secondary metabolite production, with efficiency surpassing 75%. The stress conditions employed not only triggered metabolic shifts but also influenced morphogenesis and cellular interactions within the Streptomyces populations
