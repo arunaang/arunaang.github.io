@@ -18,4 +18,4 @@ externalLink: false
 
 <!-- ![Protein Binder](/assets/images/final_binder.png) -->
 
-Secondary metabolite production using Streptomyces species
+Secondary metabolite production using Streptomyces species. I did this project at PSG College of Arts and Science, Coimbatore, India.
