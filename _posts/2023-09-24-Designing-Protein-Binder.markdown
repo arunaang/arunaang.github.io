@@ -16,7 +16,7 @@ author: arunaa
 externalLink: false
 ---
 
-<!-- ![Protein Binder](/assets/images/final_binder.png) -->
+![Streptomyces species](/assets/images/streptomyces-gram-micrograph.jpg)
 
 Increase in Secondary metabolite production using Streptomyces species. I did this project at PSG College of Arts and Science, Coimbatore, India. Actinomycetes are a rich source of bioactive natural products important for novel drug leads. Recent genome mining approaches have revealed an enormous number of secondary metabolite biosynthetic gene clusters (smBGCs) in actinomycetes.However, under standard laboratory culture conditions, many smBGCs are silent or cryptic.To activate these dormant smBGCs, several approaches, including metabolic or genetic engineering-based strategies, have been developed. Our project aims to increase streptomycin production through metabolic engineering in both Streptomyces coelicolor and Streptomyces griseus, offering a sustainable solution to address the demand for this life-saving antibiotic.
 <br>
