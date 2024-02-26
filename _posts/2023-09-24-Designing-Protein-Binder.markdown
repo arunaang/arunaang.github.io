@@ -32,6 +32,7 @@ Optimization of agitation parameters including frequency, amplitude, and duratio
 Analysis of secondary metabolite profiles using Staining techniques to perform growth analysis and used chromatographic and spectroscopic techniques to quantify changes in metabolite yields in response to mechanical stress.
 <br>
 Comparative transcriptomic and proteomic analyses to elucidate the molecular mechanisms underlying the stress-induced enhancement of secondary metabolite production.
+<br>
 **Results:**
 As part of a collaborative effort, our team conducted growth analysis on various strains of Streptomyces species with the aim of increasing secondary metabolite production by inducing stress. We implemented staining techniques to visualize and analyze the morphological changes in response to stress induction.
 <br>
