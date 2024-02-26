@@ -26,6 +26,9 @@ Our objective  is to investigate the impact of physical stress, specifically mec
 **Methods:**
 Our approach involves the following methodologies:
 Cultivation of Streptomyces cultures under standard conditions, followed by the application of controlled mechanical stress at specific time points during the fermentation process.
+<br>
 Optimization of agitation parameters including frequency, amplitude, and duration to determine the optimal stress conditions for enhancing secondary metabolite production and activating biosynthesis pathway.
+<br>
 Analysis of secondary metabolite profiles using Staining techniques to perform growth analysis and used chromatographic and spectroscopic techniques to quantify changes in metabolite yields in response to mechanical stress.
+<br>
 Comparative transcriptomic and proteomic analyses to elucidate the molecular mechanisms underlying the stress-induced enhancement of secondary metabolite production.
