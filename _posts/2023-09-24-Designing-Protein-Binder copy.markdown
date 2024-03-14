@@ -1,16 +1,17 @@
 ---
 # fields to edit: title, date, description, tag, body
-title: "Increase in Secondary metabolite production using Streptomyces species"
+title: "Extracellular vesicles in Streptomyces species as potential drug candidate and hybrid nanoparticles"
 layout: post
 date: 2023-09-01 1:11
 tag: 
-- Antibiotic production
-- Micro Biology
+- Molecular biology
+- Microbiology
+- Protein therapeutics 
 # image: assets/images/final_binder.png
 # headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Description of my work in Secondary metabolite production using Streptomyces species"
+description: "Description of my work in Hiller Lab"
 category: project
 author: arunaa
 externalLink: false
@@ -18,14 +19,10 @@ externalLink: false
 
 <!-- ![Protein Binder](/assets/images/final_binder.png) -->
 
-Increase in Secondary metabolite production using Streptomyces species. I did this project at PSG College of Arts and Science, Coimbatore, India. Streptomycin, a vital antibiotic produced by Streptomyces species, plays a pivotal role in combating bacterial infections. However, challenges such as low yields and production costs hinder its widespread availability. Our project aims to increase streptomycin production through metabolic engineering in both Streptomyces coelicolor and Streptomyces griseus, offering a sustainable solution to address the demand for this life-saving antibiotic
+ Recent studies showed that gram positive organism produces extracellular vesicles. Extracellular vesicles are membrane bound lipid bi-layer which are secreted by the bacteria. It is a good representative of what's there in the cell environment. The extracellular vesicles have a great therapeutic and diagnostic importance. 
 <br>
 **Our objective:** 
-Our objective  is to investigate the impact of physical stress, specifically mechanical agitation, on secondary metabolite production in Streptomyces cultures. By subjecting the cultures to controlled mechanical stress, we aim to stimulate secondary metabolite biosynthesis pathways and increase the yields of valuable compounds.
+Our objective  is to extensively study and add tagg several proteins on extracellular vesicles to understand how they stimulate the cells to produce a particular response and involve in quorum sensing. We also use several nucleic acid and protein quantification to understand the Extracellular vesicle contents.
 <br>
 **Methods:**
-Our approach involves the following methodologies:
-Cultivation of Streptomyces cultures under standard conditions, followed by the application of controlled mechanical stress at specific time points during the fermentation process.
-Optimization of agitation parameters including frequency, amplitude, and duration to determine the optimal stress conditions for enhancing secondary metabolite production and activating biosynthesis pathway.
-Analysis of secondary metabolite profiles using Staining techniques to perform growth analysis and used chromatographic and spectroscopic techniques to quantify changes in metabolite yields in response to mechanical stress.
-Comparative transcriptomic and proteomic analyses to elucidate the molecular mechanisms underlying the stress-induced enhancement of secondary metabolite production.
+Our research focuses on unlocking the potential of extracellular vesicles (EVs) as targeted therapeutic vehicles in combating pneumococcus infections. Through meticulous investigation, we delve into the dynamic formation of EVs and their role in delivering therapeutic payloads to effectively target pneumococcus bacteria. Utilizing advanced techniques such as PicoGreen and RiboGreen assays, we isolate and quantify DNA and RNA on EV surfaces, ensuring their stability under diverse conditions. Furthermore, we employ cutting-edge gene modification techniques to attach luminescence and fluorescence reporters to pneumococcus strains, enabling real-time tracking of EV interactions. By enhancing EV surfaces with peptides possessing high affinity to pneumococcus, we achieve precise targeting for therapeutic delivery. Additionally, we strategically tether linkers and adapters to further refine targeting capabilities. Our research evaluates the impact of modified EVs on pneumococcus competence and virulence, shedding light on promising therapeutic interventions. Through these endeavors, we pave the way for innovative approaches in infectious disease therapeutics, driving forward the frontier of EV-based treatments.
