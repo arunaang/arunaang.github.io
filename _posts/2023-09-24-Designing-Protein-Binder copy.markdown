@@ -1,8 +1,8 @@
 ---
 # fields to edit: title, date, description, tag, body
-title: "Extracellular vesicles in Streptomyces species as potential drug candidate and hybrid nanoparticles"
+title: "Extracellular vesicles in Streptococcus pnuemoniae species as potential drug candidate and hybrid nanoparticles"
 layout: post
-date: 2023-09-01 1:11
+date: 2024-01-18 2:22
 tag: 
 - Molecular biology
 - Microbiology
@@ -17,7 +17,7 @@ author: arunaa
 externalLink: false
 ---
 
-<!-- ![Protein Binder](/assets/images/final_binder.png) -->
+-- ![Protein Binder](/assets/images/pEV.png) -->
 
  Recent studies showed that gram positive organism produces extracellular vesicles. Extracellular vesicles are membrane bound lipid bi-layer which are secreted by the bacteria. It is a good representative of what's there in the cell environment. The extracellular vesicles have a great therapeutic and diagnostic importance. 
 <br>
