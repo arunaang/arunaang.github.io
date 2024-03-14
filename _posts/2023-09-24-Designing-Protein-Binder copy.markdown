@@ -1,6 +1,6 @@
 ---
 # fields to edit: title, date, description, tag, body
-title: "Extracellular vesicles in Streptococcus pnuemoniae species as potential drug candidate and hybrid nanoparticles"
+title: "Extracellular vesicles in Streptococcus species as potential drug candidate and hybrid nanoparticles"
 layout: post
 date: 2024-01-18 2:22
 tag: 
