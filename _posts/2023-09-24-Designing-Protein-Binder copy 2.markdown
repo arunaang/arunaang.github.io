@@ -2,7 +2,7 @@
 # fields to edit: title, date, description, tag, body
 title: "Identification and Purification of Antimicrobial Compounds in Rosa indica Leaves"
 layout: post
-date: 2024-01-18 2:22
+date: 2022-07-11 3:22
 tag: 
 - Molecular biology
 - Microbiology 
