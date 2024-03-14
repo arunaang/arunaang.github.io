@@ -17,7 +17,7 @@ author: arunaa
 externalLink: false
 ---
 
--- ![Protein Binder](/assets/images/pEV.png) -->
+-- ![Protein Binder](/assets/images/pEV.png)
 
  Recent studies showed that gram positive organism produces extracellular vesicles. Extracellular vesicles are membrane bound lipid bi-layer which are secreted by the bacteria. It is a good representative of what's there in the cell environment. The extracellular vesicles have a great therapeutic and diagnostic importance. 
 <br>
