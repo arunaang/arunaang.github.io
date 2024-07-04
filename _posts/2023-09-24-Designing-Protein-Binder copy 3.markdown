@@ -2,7 +2,7 @@
 # fields to edit: title, date, description, tag, body
 title: "Analysis of the SARS-CoV-2 Genome Using NCBI and UCSC Genome browser"
 layout: post
-date: 2023- 2:22
+date: 2023-05-05 2:22
 tag: 
 - Antibiotic production
 - Micro Biology
@@ -29,4 +29,4 @@ Furthermore, structural analysis aids in the study of viral mutations and their 
 <br>
 The comprehensive training and hands-on exercises equipped me with the skills to independently analyze complex biological data and contribute effectively to bioinformatics research. On successful completion of the course, I was awarded a participation certificate, which acknowledges my proficiency in bioinformatics tools and techniques. This knowledge not only enhances my understanding of viral pathogens but also prepares me to contribute to ongoing efforts in combating the COVID-19 pandemic and future infectious disease outbreaks.
 
-[def]: /assets/images/structural bioinformatics.jpg
+[def]: /assets/images/s
