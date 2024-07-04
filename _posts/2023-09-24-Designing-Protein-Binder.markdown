@@ -6,6 +6,7 @@ date: 2023-09-01 1:11
 tag: 
 - Antibiotic production
 - Micro Biology
+- Bioinformatics
 # image: assets/images/final_binder.png
 # headerImage: true
 projects: true

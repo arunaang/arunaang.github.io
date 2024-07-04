@@ -1,34 +1,32 @@
 ---
 # fields to edit: title, date, description, tag, body
-title: "Increase in Secondary metabolite production using Streptomyces species"
+title: "Analysis of the SARS-CoV-2 Genome Using NCBI and UCSC Genome browser"
 layout: post
-date: 2023-09-01 1:11
+date: 2023- 2:22
 tag: 
 - Antibiotic production
 - Micro Biology
+- Molecular biology
+- Bioinformatics
 # image: assets/images/final_binder.png
 # headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Description of my work in Secondary metabolite production using Streptomyces species"
+description: "Description of my work in analysis of sars-cov- 2 genome"
 category: project
 author: arunaa
 externalLink: false
 ---
 
-![Streptomyces species](/assets/images/streptomyces-gram-micrograph.jpg)
+![Structural bioinformatics](/assets/images/structural%20bioinformatics.jpg)
 
-Increase in Secondary metabolite production using Streptomyces species. I did this project at PSG College of Arts and Science, Coimbatore, India. Actinomycetes are a rich source of bioactive natural products important for novel drug leads. Recent genome mining approaches have revealed an enormous number of secondary metabolite biosynthetic gene clusters (smBGCs) in actinomycetes.However, under standard laboratory culture conditions, many smBGCs are silent or cryptic.To activate these dormant smBGCs, several approaches, including metabolic or genetic engineering-based strategies, have been developed. Our project aims to increase streptomycin production through metabolic engineering in both Streptomyces coelicolor and Streptomyces griseus, offering a sustainable solution to address the demand for this life-saving antibiotic.
+During the 10-day Training in Bioinformatics workshop, I gained hands-on experience in using a variety of bioinformatics tools to analyze the structure of SARS-CoV-2, the virus responsible for COVID-19. Each day included a 2-hour interactive training session conducted on Google Meet/Zoom, which provided a unique and engaging learning experience. The sessions covered a wide range of topics, including the retrieval of FASTA sequences and research articles from databases such as NCBI, PDB, and SWISSPROT. I learned to perform primary and secondary structure analysis, 3D structure visualization, and protein-protein interaction studies. Additionally, I became proficient in using software tools like PROTSCALE, TMHMM, SPDBV, and BLAST, among others. Practical exercises included pairwise and multiple sequence alignment, phylogenetic analysis, and genome analysis using the UCSC Genome Browser, with a special focus on SARS-CoV-2.
 <br>
-**Methods:**
-Our approach involves the following methodologies:
-Cultivation of Streptomyces cultures under standard conditions, followed by the application of controlled mechanical stress at specific time points during the fermentation process.
+**Importance:**
+Understanding the structure of SARS-CoV-2 is crucial for several reasons. Structural analysis of viral proteins, such as the spike protein, enables researchers to identify potential drug targets and design effective vaccines. By visualizing the 3D structures of these proteins, scientists can pinpoint regions that are critical for the virus’s ability to infect host cells, as well as those that might be vulnerable to neutralizing antibodies.
 <br>
-Optimization of agitation parameters including frequency, amplitude, and duration to determine the optimal stress conditions for enhancing secondary metabolite production and activating biosynthesis pathway.
+Furthermore, structural analysis aids in the study of viral mutations and their impact on the virus’s infectivity and resistance to treatments. During the workshop, I utilized tools like Phyre2 and InterProScan to predict protein functions and analyze mutations, providing insights into the virus’s behavior and evolution.
 <br>
-Analysis of secondary metabolite profiles using Staining techniques to perform growth analysis and used chromatographic and spectroscopic techniques to quantify changes in metabolite yields in response to mechanical stress.
-<br>
-Comparative transcriptomic and proteomic analyses to elucidate the molecular mechanisms underlying the stress-induced enhancement of secondary metabolite production.
-<br>
-**Results:**
-As part of a collaborative effort, our team conducted growth analysis on various strains of Streptomyces species with the aim of increasing secondary metabolite production by inducing stress. We implemented staining techniques to visualize and analyze the morphological changes in response to stress induction.Through meticulous optimization of culture conditions and the application of physical stress, we achieved a remarkable improvement in secondary metabolite production, with efficiency surpassing 75%. The stress conditions employed not only triggered metabolic shifts but also influenced morphogenesis and cellular interactions within the Streptomyces populations
+The comprehensive training and hands-on exercises equipped me with the skills to independently analyze complex biological data and contribute effectively to bioinformatics research. On successful completion of the course, I was awarded a participation certificate, which acknowledges my proficiency in bioinformatics tools and techniques. This knowledge not only enhances my understanding of viral pathogens but also prepares me to contribute to ongoing efforts in combating the COVID-19 pandemic and future infectious disease outbreaks.
+
+[def]: /assets/images/structural bioinformatics.jpg
