@@ -1,6 +1,6 @@
 ---
 # fields to edit: title, date, description, tag, body
-title: "Fluorescent protein expression in Ecoli"
+title: "Fluorescent protein expression in Ecoli and confirmation using fluorescence microscopy"
 layout: post
 date: 2024-02-16 3:33
 tag: 
