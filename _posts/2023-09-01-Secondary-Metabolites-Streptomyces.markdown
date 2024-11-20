@@ -1,6 +1,6 @@
 ---
 # fields to edit: title, date, description, tag, body
-title: "Increase in Secondary metabolite production using Streptomyces species"
+title: "🦠Increase in Secondary metabolite production using Streptomyces species"
 layout: post
 date: 2023-09-01 1:11
 tag: 

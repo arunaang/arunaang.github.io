@@ -1,6 +1,6 @@
 ---
 # fields to edit: title, date, description, tag, body
-title: "Identification and Purification of Antimicrobial Compounds in Rosa indica Leaves"
+title: "🧪🧫Identification and Purification of Antimicrobial Compounds in Rosa indica Leaves"
 layout: post
 date: 2022-07-11 3:22
 tag: 
