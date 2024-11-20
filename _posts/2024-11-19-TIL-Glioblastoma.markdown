@@ -1,6 +1,6 @@
 ---
 # fields to edit: title, date, description, tag, body
-title: "💉🧠TIL therapy for Pediatric Glioblastoma "
+title: "🧠TIL therapy for Pediatric Glioblastoma "
 layout: post
 date: 2024-11-19 11:19
 tag: 
