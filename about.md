@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 <br>
-<p>I am deeply driven by a passion for research and an unwavering curiosity to explore and learn. My journey in science has been shaped by a profound desire to uncover the unknown and push the boundaries of what is possible, particularly in the field of cancer immunotherapy. As a recent graduate with a Master's degree from Carnegie Mellon University (CMU), I have built a strong foundation in microbiology and synthetic biology. I have devoted myself to understanding the intricate interplay between tumor cells and the immune system, with the ultimate goal of developing innovative and effective treatments.</p>
+<p>I am deeply driven by a passion for research and an unwavering curiosity to explore and learn. My journey in science has been shaped by a profound desire to uncover the unknown and push the boundaries of what is possible, particularly in the field of cancer immunotherapy. As a recent graduate with a Master's degree from Carnegie Mellon University (CMU), I have built a strong foundation in microbiology and bioengineering as well as Cancer immunotherapy. I have devoted myself to understanding the intricate interplay between tumor cells and the immune system, with the ultimate goal of developing innovative and effective treatments.</p>
 
 <p>My work focuses on adoptive cell therapies, immune checkpoint blockade, T-cell engineering, and the role of neoantigens in cancer. I am excited by how neoantigens can drive targeted therapies, and I aim to leverage this knowledge to improve cancer treatment outcomes through advanced immunotherapies.</p>
 
