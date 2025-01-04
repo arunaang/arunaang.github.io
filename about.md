@@ -4,11 +4,12 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 <br>
-<p>As a Master's student in Biotechnology and Pharmaceutical Engineering at Carnegie Mellon University, I am passionate about leveraging biotechnology for human health. Currently engaged in groundbreaking research at Hiller Lab (CMU), my focus is on nanotechnology and bacterial pathogenesis.</p>
+<p>I am deeply driven by a passion for research and an unwavering curiosity to explore and learn. My journey in science has been shaped by a profound desire to uncover the unknown and push the boundaries of what is possible, particularly in the field of cancer immunotherapy. As a recent graduate with a Master's degree from Carnegie Mellon University (CMU), I have built a strong foundation in microbiology and synthetic biology. I have devoted myself to understanding the intricate interplay between tumor cells and the immune system, with the ultimate goal of developing innovative and effective treatments.</p>
 
-<p>I am a part of project involving extracellular vesicles (EVs) functionalized with targeting peptides, specifically designed for pneumococcus species. This work explores the impact on competence and virulence, offering insights into therapeutic interventions.</p>
+<p>My work focuses on adoptive cell therapies, immune checkpoint blockade, T-cell engineering, and the role of neoantigens in cancer. I am excited by how neoantigens can drive targeted therapies, and I aim to leverage this knowledge to improve cancer treatment outcomes through advanced immunotherapies.</p>
 
-<p>With a background in content writing for The Science Vista, I've communicated complex biotech concepts to a broader audience. My articles span topics such as cancer biology, synthetic biology, and emerging trends in the biotech sector. Eager to contribute to biotech and pharmaceutical innovation, my goal is to address global challenges through the transformative potential of biotechnology. Always ready for new challenges and learning opportunities, I am dedicated to advancing the frontiers of this dynamic field. Let's connect and explore the possibilities together! </p>
+<p>The promise of groundbreaking discoveries fuels my passion, but I also thrive on continuous learning and growth. I embrace the iterative nature of research, tackling complex challenges, and exploring new ideas that drive the advancement of immuno-oncology.
+I am particularly focused on T-cell immunotherapy and the potential of neoantigens to enhance its efficacy. This field holds transformative potential, and my commitment is to contribute meaningfully to its development and make a lasting impact on cancer treatment. </p>
 
 <!-- <h2>Skills</h2>
 
