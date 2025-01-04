@@ -8,7 +8,7 @@ layout: page
 
 <p>My work focuses on adoptive cell therapies, immune checkpoint blockade, and TIL (Tumor-Infiltrating Lymphocyte) therapy, with a particular emphasis on combining TIL therapy with neoantigen targeting for cancer treatment. I am excited by the potential of neoantigens to drive targeted therapies, and I aim to leverage this knowledge to improve cancer treatment outcomes. By utilizing advanced immunotherapies, I hope to enhance the precision and efficacy of cancer treatments, providing more effective and personalized care for patients.</p>
 
-<p>The promise of groundbreaking discoveries fuels my passion, but I also thrive on continuous learning and growth. I embrace the iterative nature of research, tackling complex challenges, and exploring new ideas that drive the advancement of immuno-oncology.My commitment is to contribute meaningfully to its development and make a lasting impact on cancer treatment. </p>
+<p>The promise of groundbreaking discoveries fuels my passion, but I also thrive on continuous learning and growth. I embrace the iterative nature of research, tackling complex challenges, and exploring new ideas that drive the advancement of immuno-oncology. My commitment is to contribute meaningfully to its development and make a lasting impact on cancer treatment. </p>
 
 <!-- <h2>Skills</h2>
 
